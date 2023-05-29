@@ -8,4 +8,4 @@ Task in this Project is to aggregate the data found in the Citi Bike Trip Histor
 
 ## Results 
 
-[Click Here To See CIITY BIKE ANALYSIS on Tableau Public]((https://public.tableau.com/app/profile/sourav.sekhar1784/viz/CityBikeAnalysis_16853607705970/FinalStory?publish=yes)) 
+[Click Here To See CIITY BIKE ANALYSIS on Tableau Public](https://public.tableau.com/app/profile/sourav.sekhar1784/viz/CityBikeAnalysis_16853607705970/FinalStory?publish=yes)
